@@ -85,7 +85,7 @@ public class Contacts
     }
     public string AddContact(string name,string number)
     {
-        for(int i = 0; i < 49; i++)
+        for(int i = 0; i < 50; i++)
         {
             if (_names[i] == null)
             {
