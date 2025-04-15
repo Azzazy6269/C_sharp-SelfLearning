@@ -1,0 +1,14 @@
+E:\C#\Tutorial10 - Struct\Age\bin\Debug\net9.0\Age.exe
+E:\C#\Tutorial10 - Struct\Age\bin\Debug\net9.0\Age.deps.json
+E:\C#\Tutorial10 - Struct\Age\bin\Debug\net9.0\Age.runtimeconfig.json
+E:\C#\Tutorial10 - Struct\Age\bin\Debug\net9.0\Age.dll
+E:\C#\Tutorial10 - Struct\Age\bin\Debug\net9.0\Age.pdb
+E:\C#\Tutorial10 - Struct\Age\obj\Debug\net9.0\Age.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Tutorial10 - Struct\Age\obj\Debug\net9.0\Age.AssemblyInfoInputs.cache
+E:\C#\Tutorial10 - Struct\Age\obj\Debug\net9.0\Age.AssemblyInfo.cs
+E:\C#\Tutorial10 - Struct\Age\obj\Debug\net9.0\Age.csproj.CoreCompileInputs.cache
+E:\C#\Tutorial10 - Struct\Age\obj\Debug\net9.0\Age.dll
+E:\C#\Tutorial10 - Struct\Age\obj\Debug\net9.0\refint\Age.dll
+E:\C#\Tutorial10 - Struct\Age\obj\Debug\net9.0\Age.pdb
+E:\C#\Tutorial10 - Struct\Age\obj\Debug\net9.0\Age.genruntimeconfig.cache
+E:\C#\Tutorial10 - Struct\Age\obj\Debug\net9.0\ref\Age.dll

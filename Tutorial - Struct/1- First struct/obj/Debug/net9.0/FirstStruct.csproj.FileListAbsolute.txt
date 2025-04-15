@@ -1,0 +1,28 @@
+E:\C#\Tutorial10 - Struct\ConsoleApp1\obj\Debug\net9.0\FirstStruct.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Tutorial10 - Struct\ConsoleApp1\obj\Debug\net9.0\FirstStruct.AssemblyInfoInputs.cache
+E:\C#\Tutorial10 - Struct\ConsoleApp1\obj\Debug\net9.0\FirstStruct.AssemblyInfo.cs
+E:\C#\Tutorial10 - Struct\ConsoleApp1\obj\Debug\net9.0\FirstStruct.csproj.CoreCompileInputs.cache
+E:\C#\Tutorial10 - Struct\ConsoleApp1\bin\Debug\net9.0\FirstStruct.exe
+E:\C#\Tutorial10 - Struct\ConsoleApp1\bin\Debug\net9.0\FirstStruct.deps.json
+E:\C#\Tutorial10 - Struct\ConsoleApp1\bin\Debug\net9.0\FirstStruct.runtimeconfig.json
+E:\C#\Tutorial10 - Struct\ConsoleApp1\bin\Debug\net9.0\FirstStruct.dll
+E:\C#\Tutorial10 - Struct\ConsoleApp1\bin\Debug\net9.0\FirstStruct.pdb
+E:\C#\Tutorial10 - Struct\ConsoleApp1\obj\Debug\net9.0\FirstStruct.dll
+E:\C#\Tutorial10 - Struct\ConsoleApp1\obj\Debug\net9.0\refint\FirstStruct.dll
+E:\C#\Tutorial10 - Struct\ConsoleApp1\obj\Debug\net9.0\FirstStruct.pdb
+E:\C#\Tutorial10 - Struct\ConsoleApp1\obj\Debug\net9.0\FirstStruct.genruntimeconfig.cache
+E:\C#\Tutorial10 - Struct\ConsoleApp1\obj\Debug\net9.0\ref\FirstStruct.dll
+E:\C#\Tutorial10 - Struct\1- First struct\bin\Debug\net9.0\FirstStruct.exe
+E:\C#\Tutorial10 - Struct\1- First struct\bin\Debug\net9.0\FirstStruct.deps.json
+E:\C#\Tutorial10 - Struct\1- First struct\bin\Debug\net9.0\FirstStruct.runtimeconfig.json
+E:\C#\Tutorial10 - Struct\1- First struct\bin\Debug\net9.0\FirstStruct.dll
+E:\C#\Tutorial10 - Struct\1- First struct\bin\Debug\net9.0\FirstStruct.pdb
+E:\C#\Tutorial10 - Struct\1- First struct\obj\Debug\net9.0\FirstStruct.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Tutorial10 - Struct\1- First struct\obj\Debug\net9.0\FirstStruct.AssemblyInfoInputs.cache
+E:\C#\Tutorial10 - Struct\1- First struct\obj\Debug\net9.0\FirstStruct.AssemblyInfo.cs
+E:\C#\Tutorial10 - Struct\1- First struct\obj\Debug\net9.0\FirstStruct.csproj.CoreCompileInputs.cache
+E:\C#\Tutorial10 - Struct\1- First struct\obj\Debug\net9.0\FirstStruct.dll
+E:\C#\Tutorial10 - Struct\1- First struct\obj\Debug\net9.0\refint\FirstStruct.dll
+E:\C#\Tutorial10 - Struct\1- First struct\obj\Debug\net9.0\FirstStruct.pdb
+E:\C#\Tutorial10 - Struct\1- First struct\obj\Debug\net9.0\FirstStruct.genruntimeconfig.cache
+E:\C#\Tutorial10 - Struct\1- First struct\obj\Debug\net9.0\ref\FirstStruct.dll
