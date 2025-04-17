@@ -1,0 +1,14 @@
+E:\C#\Tutorial11 - Enums\Enums\bin\Debug\net9.0\Enums.exe
+E:\C#\Tutorial11 - Enums\Enums\bin\Debug\net9.0\Enums.deps.json
+E:\C#\Tutorial11 - Enums\Enums\bin\Debug\net9.0\Enums.runtimeconfig.json
+E:\C#\Tutorial11 - Enums\Enums\bin\Debug\net9.0\Enums.dll
+E:\C#\Tutorial11 - Enums\Enums\bin\Debug\net9.0\Enums.pdb
+E:\C#\Tutorial11 - Enums\Enums\obj\Debug\net9.0\Enums.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Tutorial11 - Enums\Enums\obj\Debug\net9.0\Enums.AssemblyInfoInputs.cache
+E:\C#\Tutorial11 - Enums\Enums\obj\Debug\net9.0\Enums.AssemblyInfo.cs
+E:\C#\Tutorial11 - Enums\Enums\obj\Debug\net9.0\Enums.csproj.CoreCompileInputs.cache
+E:\C#\Tutorial11 - Enums\Enums\obj\Debug\net9.0\Enums.dll
+E:\C#\Tutorial11 - Enums\Enums\obj\Debug\net9.0\refint\Enums.dll
+E:\C#\Tutorial11 - Enums\Enums\obj\Debug\net9.0\Enums.pdb
+E:\C#\Tutorial11 - Enums\Enums\obj\Debug\net9.0\Enums.genruntimeconfig.cache
+E:\C#\Tutorial11 - Enums\Enums\obj\Debug\net9.0\ref\Enums.dll

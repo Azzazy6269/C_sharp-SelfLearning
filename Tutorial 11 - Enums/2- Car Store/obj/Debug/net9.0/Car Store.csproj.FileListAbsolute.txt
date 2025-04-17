@@ -1,0 +1,14 @@
+E:\C#\Tutorial11 - Enums\Car Store\obj\Debug\net9.0\Car Store.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Tutorial11 - Enums\Car Store\obj\Debug\net9.0\Car Store.AssemblyInfoInputs.cache
+E:\C#\Tutorial11 - Enums\Car Store\obj\Debug\net9.0\Car Store.AssemblyInfo.cs
+E:\C#\Tutorial11 - Enums\Car Store\obj\Debug\net9.0\Car Store.csproj.CoreCompileInputs.cache
+E:\C#\Tutorial11 - Enums\Car Store\bin\Debug\net9.0\Car Store.exe
+E:\C#\Tutorial11 - Enums\Car Store\bin\Debug\net9.0\Car Store.deps.json
+E:\C#\Tutorial11 - Enums\Car Store\bin\Debug\net9.0\Car Store.runtimeconfig.json
+E:\C#\Tutorial11 - Enums\Car Store\bin\Debug\net9.0\Car Store.dll
+E:\C#\Tutorial11 - Enums\Car Store\bin\Debug\net9.0\Car Store.pdb
+E:\C#\Tutorial11 - Enums\Car Store\obj\Debug\net9.0\Car Store.dll
+E:\C#\Tutorial11 - Enums\Car Store\obj\Debug\net9.0\refint\Car Store.dll
+E:\C#\Tutorial11 - Enums\Car Store\obj\Debug\net9.0\Car Store.pdb
+E:\C#\Tutorial11 - Enums\Car Store\obj\Debug\net9.0\Car Store.genruntimeconfig.cache
+E:\C#\Tutorial11 - Enums\Car Store\obj\Debug\net9.0\ref\Car Store.dll
