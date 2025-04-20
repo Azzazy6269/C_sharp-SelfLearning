@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\C#\\Tutorial13 - Inheritance\\2- Zoo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5823193B-C271-4C42-B4B5-218B32C29D5B}|Zoo.csproj|e:\\c#\\tutorial13 - inheritance\\2- zoo\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5823193B-C271-4C42-B4B5-218B32C29D5B}|Zoo.csproj|solutionrelative:animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5823193B-C271-4C42-B4B5-218B32C29D5B}|Zoo.csproj|e:\\c#\\tutorial13 - inheritance\\2- zoo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5823193B-C271-4C42-B4B5-218B32C29D5B}|Zoo.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5823193B-C271-4C42-B4B5-218B32C29D5B}|Zoo.csproj|e:\\c#\\tutorial13 - inheritance\\2- zoo\\wild.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5823193B-C271-4C42-B4B5-218B32C29D5B}|Zoo.csproj|solutionrelative:wild.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5823193B-C271-4C42-B4B5-218B32C29D5B}|Zoo.csproj|e:\\c#\\tutorial13 - inheritance\\2- zoo\\fish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5823193B-C271-4C42-B4B5-218B32C29D5B}|Zoo.csproj|solutionrelative:fish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5823193B-C271-4C42-B4B5-218B32C29D5B}|Zoo.csproj|e:\\c#\\tutorial13 - inheritance\\2- zoo\\bird.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5823193B-C271-4C42-B4B5-218B32C29D5B}|Zoo.csproj|solutionrelative:bird.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "wild.cs",
+              "DocumentMoniker": "E:\\C#\\Tutorial13 - Inheritance\\2- Zoo\\wild.cs",
+              "RelativeDocumentMoniker": "wild.cs",
+              "ToolTip": "E:\\C#\\Tutorial13 - Inheritance\\2- Zoo\\wild.cs",
+              "RelativeToolTip": "wild.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T17:38:46.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "fish.cs",
+              "DocumentMoniker": "E:\\C#\\Tutorial13 - Inheritance\\2- Zoo\\fish.cs",
+              "RelativeDocumentMoniker": "fish.cs",
+              "ToolTip": "E:\\C#\\Tutorial13 - Inheritance\\2- Zoo\\fish.cs",
+              "RelativeToolTip": "fish.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T17:37:18.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "bird.cs",
+              "DocumentMoniker": "E:\\C#\\Tutorial13 - Inheritance\\2- Zoo\\bird.cs",
+              "RelativeDocumentMoniker": "bird.cs",
+              "ToolTip": "E:\\C#\\Tutorial13 - Inheritance\\2- Zoo\\bird.cs",
+              "RelativeToolTip": "bird.cs",
+              "ViewState": "AgIAAAAAAACYMTMzMzMLwAcAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T17:35:52.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "E:\\C#\\Tutorial13 - Inheritance\\2- Zoo\\Animal.cs",
+              "RelativeDocumentMoniker": "Animal.cs",
+              "ToolTip": "E:\\C#\\Tutorial13 - Inheritance\\2- Zoo\\Animal.cs",
+              "RelativeToolTip": "Animal.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAvwAwAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T17:32:00.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\C#\\Tutorial13 - Inheritance\\2- Zoo\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\C#\\Tutorial13 - Inheritance\\2- Zoo\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T17:09:07.694Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
