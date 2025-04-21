@@ -1,0 +1,14 @@
+E:\C#\Tutorial14 - Interface\Birds\bin\Debug\net9.0\Birds.exe
+E:\C#\Tutorial14 - Interface\Birds\bin\Debug\net9.0\Birds.deps.json
+E:\C#\Tutorial14 - Interface\Birds\bin\Debug\net9.0\Birds.runtimeconfig.json
+E:\C#\Tutorial14 - Interface\Birds\bin\Debug\net9.0\Birds.dll
+E:\C#\Tutorial14 - Interface\Birds\bin\Debug\net9.0\Birds.pdb
+E:\C#\Tutorial14 - Interface\Birds\obj\Debug\net9.0\Birds.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Tutorial14 - Interface\Birds\obj\Debug\net9.0\Birds.AssemblyInfoInputs.cache
+E:\C#\Tutorial14 - Interface\Birds\obj\Debug\net9.0\Birds.AssemblyInfo.cs
+E:\C#\Tutorial14 - Interface\Birds\obj\Debug\net9.0\Birds.csproj.CoreCompileInputs.cache
+E:\C#\Tutorial14 - Interface\Birds\obj\Debug\net9.0\Birds.dll
+E:\C#\Tutorial14 - Interface\Birds\obj\Debug\net9.0\refint\Birds.dll
+E:\C#\Tutorial14 - Interface\Birds\obj\Debug\net9.0\Birds.pdb
+E:\C#\Tutorial14 - Interface\Birds\obj\Debug\net9.0\Birds.genruntimeconfig.cache
+E:\C#\Tutorial14 - Interface\Birds\obj\Debug\net9.0\ref\Birds.dll

@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\C#\\Tutorial14 - Interface\\Birds\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{83063B7B-EE9C-4311-801F-CBCED32B33BA}|Birds.csproj|e:\\c#\\tutorial14 - interface\\birds\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83063B7B-EE9C-4311-801F-CBCED32B33BA}|Birds.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83063B7B-EE9C-4311-801F-CBCED32B33BA}|Birds.csproj|e:\\c#\\tutorial14 - interface\\birds\\pigeon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83063B7B-EE9C-4311-801F-CBCED32B33BA}|Birds.csproj|solutionrelative:pigeon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83063B7B-EE9C-4311-801F-CBCED32B33BA}|Birds.csproj|e:\\c#\\tutorial14 - interface\\birds\\ostrich.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83063B7B-EE9C-4311-801F-CBCED32B33BA}|Birds.csproj|solutionrelative:ostrich.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Ostrich.cs",
+              "DocumentMoniker": "E:\\C#\\Tutorial14 - Interface\\Birds\\Ostrich.cs",
+              "RelativeDocumentMoniker": "Ostrich.cs",
+              "ToolTip": "E:\\C#\\Tutorial14 - Interface\\Birds\\Ostrich.cs",
+              "RelativeToolTip": "Ostrich.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T22:14:25.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Pigeon.cs",
+              "DocumentMoniker": "E:\\C#\\Tutorial14 - Interface\\Birds\\Pigeon.cs",
+              "RelativeDocumentMoniker": "Pigeon.cs",
+              "ToolTip": "E:\\C#\\Tutorial14 - Interface\\Birds\\Pigeon.cs",
+              "RelativeToolTip": "Pigeon.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T22:12:33.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\C#\\Tutorial14 - Interface\\Birds\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\C#\\Tutorial14 - Interface\\Birds\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T21:33:59.074Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
