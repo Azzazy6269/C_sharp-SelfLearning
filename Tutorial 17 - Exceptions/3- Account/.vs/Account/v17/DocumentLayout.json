@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\C#\\Tutorial17 - Exceptions\\Account\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A5A3A701-CA7E-4925-A0FA-3BA24ADF8333}|Account.csproj|e:\\c#\\tutorial17 - exceptions\\account\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5A3A701-CA7E-4925-A0FA-3BA24ADF8333}|Account.csproj|solutionrelative:account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5A3A701-CA7E-4925-A0FA-3BA24ADF8333}|Account.csproj|e:\\c#\\tutorial17 - exceptions\\account\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5A3A701-CA7E-4925-A0FA-3BA24ADF8333}|Account.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5A3A701-CA7E-4925-A0FA-3BA24ADF8333}|Account.csproj|e:\\c#\\tutorial17 - exceptions\\account\\hacking_trialexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5A3A701-CA7E-4925-A0FA-3BA24ADF8333}|Account.csproj|solutionrelative:hacking_trialexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Hacking_trialException.cs",
+              "DocumentMoniker": "E:\\C#\\Tutorial17 - Exceptions\\Account\\Hacking_trialException.cs",
+              "RelativeDocumentMoniker": "Hacking_trialException.cs",
+              "ToolTip": "E:\\C#\\Tutorial17 - Exceptions\\Account\\Hacking_trialException.cs",
+              "RelativeToolTip": "Hacking_trialException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T01:38:03.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Account.cs",
+              "DocumentMoniker": "E:\\C#\\Tutorial17 - Exceptions\\Account\\Account.cs",
+              "RelativeDocumentMoniker": "Account.cs",
+              "ToolTip": "E:\\C#\\Tutorial17 - Exceptions\\Account\\Account.cs",
+              "RelativeToolTip": "Account.cs",
+              "ViewState": "AgIAAA4AAAAAuczMzMz8vyEAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T01:27:58.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\C#\\Tutorial17 - Exceptions\\Account\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\C#\\Tutorial17 - Exceptions\\Account\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T01:19:50.447Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

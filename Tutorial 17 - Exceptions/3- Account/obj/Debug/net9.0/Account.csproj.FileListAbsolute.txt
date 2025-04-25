@@ -1,0 +1,14 @@
+E:\C#\Tutorial17 - Exceptions\Account\bin\Debug\net9.0\Account.exe
+E:\C#\Tutorial17 - Exceptions\Account\bin\Debug\net9.0\Account.deps.json
+E:\C#\Tutorial17 - Exceptions\Account\bin\Debug\net9.0\Account.runtimeconfig.json
+E:\C#\Tutorial17 - Exceptions\Account\bin\Debug\net9.0\Account.dll
+E:\C#\Tutorial17 - Exceptions\Account\bin\Debug\net9.0\Account.pdb
+E:\C#\Tutorial17 - Exceptions\Account\obj\Debug\net9.0\Account.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Tutorial17 - Exceptions\Account\obj\Debug\net9.0\Account.AssemblyInfoInputs.cache
+E:\C#\Tutorial17 - Exceptions\Account\obj\Debug\net9.0\Account.AssemblyInfo.cs
+E:\C#\Tutorial17 - Exceptions\Account\obj\Debug\net9.0\Account.csproj.CoreCompileInputs.cache
+E:\C#\Tutorial17 - Exceptions\Account\obj\Debug\net9.0\Account.dll
+E:\C#\Tutorial17 - Exceptions\Account\obj\Debug\net9.0\refint\Account.dll
+E:\C#\Tutorial17 - Exceptions\Account\obj\Debug\net9.0\Account.pdb
+E:\C#\Tutorial17 - Exceptions\Account\obj\Debug\net9.0\Account.genruntimeconfig.cache
+E:\C#\Tutorial17 - Exceptions\Account\obj\Debug\net9.0\ref\Account.dll

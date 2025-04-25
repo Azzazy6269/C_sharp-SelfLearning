@@ -1,0 +1,14 @@
+E:\C#\Tutorial17 - Exceptions\ConsoleApp1\bin\Debug\net9.0\Calculator.exe
+E:\C#\Tutorial17 - Exceptions\ConsoleApp1\bin\Debug\net9.0\Calculator.deps.json
+E:\C#\Tutorial17 - Exceptions\ConsoleApp1\bin\Debug\net9.0\Calculator.runtimeconfig.json
+E:\C#\Tutorial17 - Exceptions\ConsoleApp1\bin\Debug\net9.0\Calculator.dll
+E:\C#\Tutorial17 - Exceptions\ConsoleApp1\bin\Debug\net9.0\Calculator.pdb
+E:\C#\Tutorial17 - Exceptions\ConsoleApp1\obj\Debug\net9.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Tutorial17 - Exceptions\ConsoleApp1\obj\Debug\net9.0\Calculator.AssemblyInfoInputs.cache
+E:\C#\Tutorial17 - Exceptions\ConsoleApp1\obj\Debug\net9.0\Calculator.AssemblyInfo.cs
+E:\C#\Tutorial17 - Exceptions\ConsoleApp1\obj\Debug\net9.0\Calculator.csproj.CoreCompileInputs.cache
+E:\C#\Tutorial17 - Exceptions\ConsoleApp1\obj\Debug\net9.0\Calculator.dll
+E:\C#\Tutorial17 - Exceptions\ConsoleApp1\obj\Debug\net9.0\refint\Calculator.dll
+E:\C#\Tutorial17 - Exceptions\ConsoleApp1\obj\Debug\net9.0\Calculator.pdb
+E:\C#\Tutorial17 - Exceptions\ConsoleApp1\obj\Debug\net9.0\Calculator.genruntimeconfig.cache
+E:\C#\Tutorial17 - Exceptions\ConsoleApp1\obj\Debug\net9.0\ref\Calculator.dll

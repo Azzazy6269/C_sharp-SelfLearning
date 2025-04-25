@@ -1,0 +1,28 @@
+E:\C#\Tutorial17 - Exceptions\Delivery\obj\Debug\net9.0\Delivery.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Tutorial17 - Exceptions\Delivery\obj\Debug\net9.0\Delivery.AssemblyInfoInputs.cache
+E:\C#\Tutorial17 - Exceptions\Delivery\obj\Debug\net9.0\Delivery.AssemblyInfo.cs
+E:\C#\Tutorial17 - Exceptions\Delivery\obj\Debug\net9.0\Delivery.csproj.CoreCompileInputs.cache
+E:\C#\Tutorial17 - Exceptions\Delivery\bin\Debug\net9.0\Delivery.exe
+E:\C#\Tutorial17 - Exceptions\Delivery\bin\Debug\net9.0\Delivery.deps.json
+E:\C#\Tutorial17 - Exceptions\Delivery\bin\Debug\net9.0\Delivery.runtimeconfig.json
+E:\C#\Tutorial17 - Exceptions\Delivery\bin\Debug\net9.0\Delivery.dll
+E:\C#\Tutorial17 - Exceptions\Delivery\bin\Debug\net9.0\Delivery.pdb
+E:\C#\Tutorial17 - Exceptions\Delivery\obj\Debug\net9.0\Delivery.dll
+E:\C#\Tutorial17 - Exceptions\Delivery\obj\Debug\net9.0\refint\Delivery.dll
+E:\C#\Tutorial17 - Exceptions\Delivery\obj\Debug\net9.0\Delivery.pdb
+E:\C#\Tutorial17 - Exceptions\Delivery\obj\Debug\net9.0\Delivery.genruntimeconfig.cache
+E:\C#\Tutorial17 - Exceptions\Delivery\obj\Debug\net9.0\ref\Delivery.dll
+E:\C#\Tutorial17 - Exceptions\2- Delivery\bin\Debug\net9.0\Delivery.exe
+E:\C#\Tutorial17 - Exceptions\2- Delivery\bin\Debug\net9.0\Delivery.deps.json
+E:\C#\Tutorial17 - Exceptions\2- Delivery\bin\Debug\net9.0\Delivery.runtimeconfig.json
+E:\C#\Tutorial17 - Exceptions\2- Delivery\bin\Debug\net9.0\Delivery.dll
+E:\C#\Tutorial17 - Exceptions\2- Delivery\bin\Debug\net9.0\Delivery.pdb
+E:\C#\Tutorial17 - Exceptions\2- Delivery\obj\Debug\net9.0\Delivery.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Tutorial17 - Exceptions\2- Delivery\obj\Debug\net9.0\Delivery.AssemblyInfoInputs.cache
+E:\C#\Tutorial17 - Exceptions\2- Delivery\obj\Debug\net9.0\Delivery.AssemblyInfo.cs
+E:\C#\Tutorial17 - Exceptions\2- Delivery\obj\Debug\net9.0\Delivery.csproj.CoreCompileInputs.cache
+E:\C#\Tutorial17 - Exceptions\2- Delivery\obj\Debug\net9.0\Delivery.dll
+E:\C#\Tutorial17 - Exceptions\2- Delivery\obj\Debug\net9.0\refint\Delivery.dll
+E:\C#\Tutorial17 - Exceptions\2- Delivery\obj\Debug\net9.0\Delivery.pdb
+E:\C#\Tutorial17 - Exceptions\2- Delivery\obj\Debug\net9.0\Delivery.genruntimeconfig.cache
+E:\C#\Tutorial17 - Exceptions\2- Delivery\obj\Debug\net9.0\ref\Delivery.dll
