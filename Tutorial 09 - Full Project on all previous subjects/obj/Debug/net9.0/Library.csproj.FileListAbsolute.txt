@@ -1,0 +1,15 @@
+E:\git\C_sharp-SelfLearning\Tutorial 09 - Full Project on all previous subjects\obj\Debug\net9.0\Library.GeneratedMSBuildEditorConfig.editorconfig
+E:\git\C_sharp-SelfLearning\Tutorial 09 - Full Project on all previous subjects\obj\Debug\net9.0\Library.AssemblyInfoInputs.cache
+E:\git\C_sharp-SelfLearning\Tutorial 09 - Full Project on all previous subjects\obj\Debug\net9.0\Library.AssemblyInfo.cs
+E:\git\C_sharp-SelfLearning\Tutorial 09 - Full Project on all previous subjects\obj\Debug\net9.0\Library.csproj.CoreCompileInputs.cache
+E:\git\C_sharp-SelfLearning\Tutorial 09 - Full Project on all previous subjects\obj\Debug\net9.0\Library.sourcelink.json
+E:\git\C_sharp-SelfLearning\Tutorial 09 - Full Project on all previous subjects\bin\Debug\net9.0\Library.exe
+E:\git\C_sharp-SelfLearning\Tutorial 09 - Full Project on all previous subjects\bin\Debug\net9.0\Library.deps.json
+E:\git\C_sharp-SelfLearning\Tutorial 09 - Full Project on all previous subjects\bin\Debug\net9.0\Library.runtimeconfig.json
+E:\git\C_sharp-SelfLearning\Tutorial 09 - Full Project on all previous subjects\bin\Debug\net9.0\Library.dll
+E:\git\C_sharp-SelfLearning\Tutorial 09 - Full Project on all previous subjects\bin\Debug\net9.0\Library.pdb
+E:\git\C_sharp-SelfLearning\Tutorial 09 - Full Project on all previous subjects\obj\Debug\net9.0\Library.dll
+E:\git\C_sharp-SelfLearning\Tutorial 09 - Full Project on all previous subjects\obj\Debug\net9.0\refint\Library.dll
+E:\git\C_sharp-SelfLearning\Tutorial 09 - Full Project on all previous subjects\obj\Debug\net9.0\Library.pdb
+E:\git\C_sharp-SelfLearning\Tutorial 09 - Full Project on all previous subjects\obj\Debug\net9.0\Library.genruntimeconfig.cache
+E:\git\C_sharp-SelfLearning\Tutorial 09 - Full Project on all previous subjects\obj\Debug\net9.0\ref\Library.dll

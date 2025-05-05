@@ -38,11 +38,11 @@ namespace Book_nameSpace
                     }
             }
         }
-        public bool IsAvailable
-        {
-            get => _isAvailable;
-            set { _isAvailable = value; }
-        }
+        //public bool IsAvailable
+        //{
+        //    get => _isAvailable;
+        //    set { _isAvailable = value; }
+        //}
         public double NumOfCopies
         {
             get => _numOfCopies;
