@@ -1,0 +1,28 @@
+Task: Smart Home Automation System
+You are tasked with building a system to automate and manage different appliances in a smart home.
+The system will allow the home owner to control lights, thermostats, and alarms, while providing notifications for the status of each device. 
+The goal is to use inheritance, interfaces, delegates, and generics to model these devices.
+
+Requirements:
+
+A) Classes and Inheritance:
+Create an abstract class Appliance with common properties like Name, Status (On/Off), and methods like TurnOn() and TurnOff().
+Derive classes Light, Thermostat, and Alarm from Appliance:
+Light will have properties like Brightness and Color, with additional methods like SetBrightness() and SetColor().
+Thermostat will have properties like Temperature and Mode (Cooling/Heating), with additional methods like SetTemperature() and SwitchMode().
+Alarm will have properties like Volume and AlarmType (Fire, Burglar), with methods like SetVolume() and Activate().
+
+B) Interfaces:
+Create an interface ISmartControl with methods like Control(), Status(), and Reset(). Implement this interface in all appliances (Light, Thermostat, Alarm).
+The TogglePower() method should handle controlling the appliance (turning it on or off or changing its settings).
+The GetStatus() method should return the current status of the appliance (e.g., On/Off, current settings).
+The Reset() method should reset the appliance to default settings.
+
+C) Generics:
+Create a generic class SmartHome<T> where T is any appliance (Light, Thermostat, Alarm). This class will manage a list of appliances and provide methods like AddAppliance(), RemoveAppliance(), ControlAppliance(), and ShowApplianceStatus().
+The SmartHome<T> class should also allow querying appliances by their Name.
+
+D) Delegate:
+Create a delegate ApplianceNotificationHandler to notify the user when an appliance status changes or when a device is activated or deactivated.
+The delegate should be used to trigger notifications when appliances are turned on, off, or adjusted.
+

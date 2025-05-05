@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\C#\\Tutorial16 - Delegate generic\\Generic\\Numbers.csproj": {}
+    "E:\\git\\C_sharp-SelfLearning\\Tutorial 05 - Delegate\\4- Numbers\\Numbers.csproj": {}
   },
   "projects": {
-    "E:\\C#\\Tutorial16 - Delegate generic\\Generic\\Numbers.csproj": {
+    "E:\\git\\C_sharp-SelfLearning\\Tutorial 05 - Delegate\\4- Numbers\\Numbers.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\C#\\Tutorial16 - Delegate generic\\Generic\\Numbers.csproj",
+        "projectUniqueName": "E:\\git\\C_sharp-SelfLearning\\Tutorial 05 - Delegate\\4- Numbers\\Numbers.csproj",
         "projectName": "Numbers",
-        "projectPath": "E:\\C#\\Tutorial16 - Delegate generic\\Generic\\Numbers.csproj",
+        "projectPath": "E:\\git\\C_sharp-SelfLearning\\Tutorial 05 - Delegate\\4- Numbers\\Numbers.csproj",
         "packagesPath": "C:\\Users\\smart\\.nuget\\packages\\",
-        "outputPath": "E:\\C#\\Tutorial16 - Delegate generic\\Generic\\obj\\",
+        "outputPath": "E:\\git\\C_sharp-SelfLearning\\Tutorial 05 - Delegate\\4- Numbers\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

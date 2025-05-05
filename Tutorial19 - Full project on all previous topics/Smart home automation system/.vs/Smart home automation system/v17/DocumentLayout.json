@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\git\\C_sharp-SelfLearning\\Tutorial19 - Full project on all previous topics\\Smart home automation system\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4922A7C2-F3B7-4AA5-BEDF-9CFA5FFA3D7A}|Smart home automation system.csproj|e:\\git\\c_sharp-selflearning\\tutorial19 - full project on all previous topics\\smart home automation system\\appliance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4922A7C2-F3B7-4AA5-BEDF-9CFA5FFA3D7A}|Smart home automation system.csproj|solutionrelative:appliance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4922A7C2-F3B7-4AA5-BEDF-9CFA5FFA3D7A}|Smart home automation system.csproj|e:\\git\\c_sharp-selflearning\\tutorial19 - full project on all previous topics\\smart home automation system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4922A7C2-F3B7-4AA5-BEDF-9CFA5FFA3D7A}|Smart home automation system.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4922A7C2-F3B7-4AA5-BEDF-9CFA5FFA3D7A}|Smart home automation system.csproj|e:\\git\\c_sharp-selflearning\\tutorial19 - full project on all previous topics\\smart home automation system\\smarthome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4922A7C2-F3B7-4AA5-BEDF-9CFA5FFA3D7A}|Smart home automation system.csproj|solutionrelative:smarthome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4922A7C2-F3B7-4AA5-BEDF-9CFA5FFA3D7A}|Smart home automation system.csproj|e:\\git\\c_sharp-selflearning\\tutorial19 - full project on all previous topics\\smart home automation system\\alarm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4922A7C2-F3B7-4AA5-BEDF-9CFA5FFA3D7A}|Smart home automation system.csproj|solutionrelative:alarm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4922A7C2-F3B7-4AA5-BEDF-9CFA5FFA3D7A}|Smart home automation system.csproj|e:\\git\\c_sharp-selflearning\\tutorial19 - full project on all previous topics\\smart home automation system\\thermostat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4922A7C2-F3B7-4AA5-BEDF-9CFA5FFA3D7A}|Smart home automation system.csproj|solutionrelative:thermostat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4922A7C2-F3B7-4AA5-BEDF-9CFA5FFA3D7A}|Smart home automation system.csproj|e:\\git\\c_sharp-selflearning\\tutorial19 - full project on all previous topics\\smart home automation system\\light.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4922A7C2-F3B7-4AA5-BEDF-9CFA5FFA3D7A}|Smart home automation system.csproj|solutionrelative:light.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\git\\C_sharp-SelfLearning\\Tutorial19 - Full project on all previous topics\\Smart home automation system\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\git\\C_sharp-SelfLearning\\Tutorial19 - Full project on all previous topics\\Smart home automation system\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAACIAAACAk5mZmZkdwC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T03:33:58.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SmartHome.cs",
+              "DocumentMoniker": "E:\\git\\C_sharp-SelfLearning\\Tutorial19 - Full project on all previous topics\\Smart home automation system\\SmartHome.cs",
+              "RelativeDocumentMoniker": "SmartHome.cs",
+              "ToolTip": "E:\\git\\C_sharp-SelfLearning\\Tutorial19 - Full project on all previous topics\\Smart home automation system\\SmartHome.cs",
+              "RelativeToolTip": "SmartHome.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T04:39:34.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Appliance.cs",
+              "DocumentMoniker": "E:\\git\\C_sharp-SelfLearning\\Tutorial19 - Full project on all previous topics\\Smart home automation system\\Appliance.cs",
+              "RelativeDocumentMoniker": "Appliance.cs",
+              "ToolTip": "E:\\git\\C_sharp-SelfLearning\\Tutorial19 - Full project on all previous topics\\Smart home automation system\\Appliance.cs",
+              "RelativeToolTip": "Appliance.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T03:38:04.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Light.cs",
+              "DocumentMoniker": "E:\\git\\C_sharp-SelfLearning\\Tutorial19 - Full project on all previous topics\\Smart home automation system\\Light.cs",
+              "RelativeDocumentMoniker": "Light.cs",
+              "ToolTip": "E:\\git\\C_sharp-SelfLearning\\Tutorial19 - Full project on all previous topics\\Smart home automation system\\Light.cs",
+              "RelativeToolTip": "Light.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T03:51:04.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Thermostat.cs",
+              "DocumentMoniker": "E:\\git\\C_sharp-SelfLearning\\Tutorial19 - Full project on all previous topics\\Smart home automation system\\Thermostat.cs",
+              "RelativeDocumentMoniker": "Thermostat.cs",
+              "ToolTip": "E:\\git\\C_sharp-SelfLearning\\Tutorial19 - Full project on all previous topics\\Smart home automation system\\Thermostat.cs",
+              "RelativeToolTip": "Thermostat.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T03:54:54.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Alarm.cs",
+              "DocumentMoniker": "E:\\git\\C_sharp-SelfLearning\\Tutorial19 - Full project on all previous topics\\Smart home automation system\\Alarm.cs",
+              "RelativeDocumentMoniker": "Alarm.cs",
+              "ToolTip": "E:\\git\\C_sharp-SelfLearning\\Tutorial19 - Full project on all previous topics\\Smart home automation system\\Alarm.cs",
+              "RelativeToolTip": "Alarm.cs",
+              "ViewState": "AgIAABsAAACgMjMzMzM6wA8AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T03:59:12.483Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
