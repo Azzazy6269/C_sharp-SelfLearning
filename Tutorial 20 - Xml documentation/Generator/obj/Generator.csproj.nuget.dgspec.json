@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\C#\\Tutorial20 - Xml documentation\\Library\\Library.csproj": {}
+    "E:\\C#\\Tutorial20 - Xml documentation\\Generator\\Generator.csproj": {}
   },
   "projects": {
-    "E:\\C#\\Tutorial20 - Xml documentation\\Library\\Library.csproj": {
+    "E:\\C#\\Tutorial20 - Xml documentation\\Generator\\Generator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\C#\\Tutorial20 - Xml documentation\\Library\\Library.csproj",
-        "projectName": "Library",
-        "projectPath": "E:\\C#\\Tutorial20 - Xml documentation\\Library\\Library.csproj",
+        "projectUniqueName": "E:\\C#\\Tutorial20 - Xml documentation\\Generator\\Generator.csproj",
+        "projectName": "Generator",
+        "projectPath": "E:\\C#\\Tutorial20 - Xml documentation\\Generator\\Generator.csproj",
         "packagesPath": "C:\\Users\\smart\\.nuget\\packages\\",
-        "outputPath": "E:\\C#\\Tutorial20 - Xml documentation\\Library\\obj\\",
+        "outputPath": "E:\\C#\\Tutorial20 - Xml documentation\\Generator\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

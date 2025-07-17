@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "E:\\C#\\Tutorial20 - Xml documentation\\Library\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{55F824CB-E377-4B6A-8FB2-4B1AAD46A3FF}|Library.csproj|e:\\c#\\tutorial20 - xml documentation\\library\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{55F824CB-E377-4B6A-8FB2-4B1AAD46A3FF}|Library.csproj|solutionrelative:book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{55F824CB-E377-4B6A-8FB2-4B1AAD46A3FF}|Library.csproj|e:\\c#\\tutorial20 - xml documentation\\library\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{55F824CB-E377-4B6A-8FB2-4B1AAD46A3FF}|Library.csproj|solutionrelative:library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{55F824CB-E377-4B6A-8FB2-4B1AAD46A3FF}|Library.csproj|e:\\c#\\tutorial20 - xml documentation\\library\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{55F824CB-E377-4B6A-8FB2-4B1AAD46A3FF}|Library.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55F824CB-E377-4B6A-8FB2-4B1AAD46A3FF}|Library.csproj|e:\\c#\\tutorial20 - xml documentation\\library\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55F824CB-E377-4B6A-8FB2-4B1AAD46A3FF}|Library.csproj|solutionrelative:book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,43 +22,43 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\C#\\Tutorial20 - Xml documentation\\Library\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "E:\\C#\\Tutorial20 - Xml documentation\\Library\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAADEAAABAZ2ZmZmYswCwAAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-07T12:56:36.988Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Library.cs",
               "DocumentMoniker": "E:\\C#\\Tutorial20 - Xml documentation\\Library\\Library.cs",
               "RelativeDocumentMoniker": "Library.cs",
               "ToolTip": "E:\\C#\\Tutorial20 - Xml documentation\\Library\\Library.cs",
               "RelativeToolTip": "Library.cs",
-              "ViewState": "AgIAABsAAAAAzMzMzEwfwDAAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAB4AAABMZGZmZmYswDAAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-07T12:56:36.237Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Book.cs",
               "DocumentMoniker": "E:\\C#\\Tutorial20 - Xml documentation\\Library\\Book.cs",
               "RelativeDocumentMoniker": "Book.cs",
               "ToolTip": "E:\\C#\\Tutorial20 - Xml documentation\\Library\\Book.cs",
               "RelativeToolTip": "Book.cs",
-              "ViewState": "AgIAAA0AAABgmJmZmZkVwCsAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-07T12:56:35.307Z",
               "EditorCaption": ""
