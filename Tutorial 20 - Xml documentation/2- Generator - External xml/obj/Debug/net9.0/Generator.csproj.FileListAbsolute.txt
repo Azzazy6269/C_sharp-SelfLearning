@@ -1,0 +1,29 @@
+E:\C#\Tutorial20 - Xml documentation\Generator\bin\Debug\net9.0\Generator.exe
+E:\C#\Tutorial20 - Xml documentation\Generator\bin\Debug\net9.0\Generator.deps.json
+E:\C#\Tutorial20 - Xml documentation\Generator\bin\Debug\net9.0\Generator.runtimeconfig.json
+E:\C#\Tutorial20 - Xml documentation\Generator\bin\Debug\net9.0\Generator.dll
+E:\C#\Tutorial20 - Xml documentation\Generator\bin\Debug\net9.0\Generator.pdb
+E:\C#\Tutorial20 - Xml documentation\Generator\obj\Debug\net9.0\Generator.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Tutorial20 - Xml documentation\Generator\obj\Debug\net9.0\Generator.AssemblyInfoInputs.cache
+E:\C#\Tutorial20 - Xml documentation\Generator\obj\Debug\net9.0\Generator.AssemblyInfo.cs
+E:\C#\Tutorial20 - Xml documentation\Generator\obj\Debug\net9.0\Generator.csproj.CoreCompileInputs.cache
+E:\C#\Tutorial20 - Xml documentation\Generator\obj\Debug\net9.0\Generator.dll
+E:\C#\Tutorial20 - Xml documentation\Generator\obj\Debug\net9.0\refint\Generator.dll
+E:\C#\Tutorial20 - Xml documentation\Generator\obj\Debug\net9.0\Generator.pdb
+E:\C#\Tutorial20 - Xml documentation\Generator\obj\Debug\net9.0\Generator.genruntimeconfig.cache
+E:\C#\Tutorial20 - Xml documentation\Generator\obj\Debug\net9.0\ref\Generator.dll
+E:\C#\Tutorial20 - Xml documentation\Generator\bin\Debug\net9.0\Documentation.xml
+E:\C#\Tutorial20 - Xml documentation\2- Generator - External xml\bin\Debug\net9.0\Generator.exe
+E:\C#\Tutorial20 - Xml documentation\2- Generator - External xml\bin\Debug\net9.0\Generator.deps.json
+E:\C#\Tutorial20 - Xml documentation\2- Generator - External xml\bin\Debug\net9.0\Generator.runtimeconfig.json
+E:\C#\Tutorial20 - Xml documentation\2- Generator - External xml\bin\Debug\net9.0\Generator.dll
+E:\C#\Tutorial20 - Xml documentation\2- Generator - External xml\bin\Debug\net9.0\Generator.pdb
+E:\C#\Tutorial20 - Xml documentation\2- Generator - External xml\obj\Debug\net9.0\Generator.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Tutorial20 - Xml documentation\2- Generator - External xml\obj\Debug\net9.0\Generator.AssemblyInfoInputs.cache
+E:\C#\Tutorial20 - Xml documentation\2- Generator - External xml\obj\Debug\net9.0\Generator.AssemblyInfo.cs
+E:\C#\Tutorial20 - Xml documentation\2- Generator - External xml\obj\Debug\net9.0\Generator.csproj.CoreCompileInputs.cache
+E:\C#\Tutorial20 - Xml documentation\2- Generator - External xml\obj\Debug\net9.0\Generator.dll
+E:\C#\Tutorial20 - Xml documentation\2- Generator - External xml\obj\Debug\net9.0\refint\Generator.dll
+E:\C#\Tutorial20 - Xml documentation\2- Generator - External xml\obj\Debug\net9.0\Generator.pdb
+E:\C#\Tutorial20 - Xml documentation\2- Generator - External xml\obj\Debug\net9.0\Generator.genruntimeconfig.cache
+E:\C#\Tutorial20 - Xml documentation\2- Generator - External xml\obj\Debug\net9.0\ref\Generator.dll
