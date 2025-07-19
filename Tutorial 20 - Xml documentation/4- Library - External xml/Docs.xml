@@ -1,0 +1,83 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Library</name>
+    </assembly>
+    <members>
+        <member name="T:Book_nameSpace.Book">
+            <summary>
+            Book class
+            </summary>
+            <remarks>
+            <list type="bullet">
+            <item> <description> Title : name of the book </description> </item>
+            <item> <description> Author : name of the author </description> </item>
+            <item> <description> Year : year of publishing the book </description></item>
+            <item> <description> NumOfCopies : num of available copies of this book </description></item>
+            </list>
+            </remarks>
+        </member>
+        <member name="P:Book_nameSpace.Book.Title">
+            <value> Title of the book </value>
+        </member>
+        <member name="P:Book_nameSpace.Book.Author">
+            <value> Name of the author </value>
+        </member>
+        <member name="P:Book_nameSpace.Book.Year">
+            <value> Year of publishing the book </value>
+        </member>
+        <member name="P:Book_nameSpace.Book.NumOfCopies">
+            <value> Num of available copies of this book </value>
+        </member>
+        <member name="T:Library_nameSpace.Library">
+            <summary>
+            This class implements library and allow you to add info about books and Employees
+            </summary>
+        </member>
+        <member name="F:Library_nameSpace.Library.SuperVisior">
+            <value> SuperVisior is libraryEmployee dataType </value>
+        </member>
+        <member name="F:Library_nameSpace.Library.librarian">
+            <value> librarian is libraryEmployee dataType </value>
+        </member>
+        <member name="F:Library_nameSpace.Library.dustman">
+            <value> dustman is libraryEmployee dataType </value>
+        </member>
+        <member name="M:Library_nameSpace.Library.AddBook(Book_nameSpace.Book)">
+            <summary>
+            Add Book to the Library list using <paramref name="book"/> . 
+            this increases num of copies of this book
+            </summary>
+            <param name="book"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Library_nameSpace.Library.BorrowBook(System.String)">
+            <summary>
+            Borrow Book from the library using <paramref name="bookNmae"/> .
+            this decreases num of copies of this book
+            </summary>
+            <param name="bookNmae"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Library_nameSpace.Library.ReturnBook(System.String)">
+            <summary>
+            Return Book that was borrowd before using <paramref name="bookNmae"/> .
+            this increases num of copies of this book
+            </summary>
+            <param name="bookNmae"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Library_nameSpace.Library.ShowAuthorBooks(System.String)">
+            <summary>
+            Prints all books of <paramref name="authorName"/>
+            </summary>
+            <param name="authorName"></param>
+        </member>
+        <member name="T:Library_nameSpace.Library.libraryEmployee">
+            <summary>
+            LibraryEmployee class .
+            defines any employee by his <paramref name="name"/> and <paramref name="salary"/>
+            </summary>
+        </member>
+    </members>
+</doc>
