@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\C#\\Tutorial21 - Threading\\CAProcessAndThread\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{703CB043-9B06-4C3E-B112-9F149131C2E1}|CASequential\\CASequential.csproj|e:\\c#\\tutorial21 - threading\\caprocessandthread\\casequential\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{703CB043-9B06-4C3E-B112-9F149131C2E1}|CASequential\\CASequential.csproj|solutionrelative:casequential\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B3E5041-CE94-4D4B-A803-94077B35CAA8}|CAProcessAndThread\\CAProcessAndThread.csproj|e:\\c#\\tutorial21 - threading\\caprocessandthread\\caprocessandthread\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B3E5041-CE94-4D4B-A803-94077B35CAA8}|CAProcessAndThread\\CAProcessAndThread.csproj|solutionrelative:caprocessandthread\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\C#\\Tutorial21 - Threading\\CAProcessAndThread\\CASequential\\Program.cs",
+              "RelativeDocumentMoniker": "CASequential\\Program.cs",
+              "ToolTip": "E:\\C#\\Tutorial21 - Threading\\CAProcessAndThread\\CASequential\\Program.cs",
+              "RelativeToolTip": "CASequential\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T17:34:07.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\C#\\Tutorial21 - Threading\\CAProcessAndThread\\CAProcessAndThread\\Program.cs",
+              "RelativeDocumentMoniker": "CAProcessAndThread\\Program.cs",
+              "ToolTip": "E:\\C#\\Tutorial21 - Threading\\CAProcessAndThread\\CAProcessAndThread\\Program.cs",
+              "RelativeToolTip": "CAProcessAndThread\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T16:55:50.498Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+E:\C#\Tutorial21 - Threading\CAProcessAndThread\CAProcessAndThread\bin\Debug\net9.0\CAProcessAndThread.exe
+E:\C#\Tutorial21 - Threading\CAProcessAndThread\CAProcessAndThread\bin\Debug\net9.0\CAProcessAndThread.deps.json
+E:\C#\Tutorial21 - Threading\CAProcessAndThread\CAProcessAndThread\bin\Debug\net9.0\CAProcessAndThread.runtimeconfig.json
+E:\C#\Tutorial21 - Threading\CAProcessAndThread\CAProcessAndThread\bin\Debug\net9.0\CAProcessAndThread.dll
+E:\C#\Tutorial21 - Threading\CAProcessAndThread\CAProcessAndThread\bin\Debug\net9.0\CAProcessAndThread.pdb
+E:\C#\Tutorial21 - Threading\CAProcessAndThread\CAProcessAndThread\obj\Debug\net9.0\CAProcessAndThread.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Tutorial21 - Threading\CAProcessAndThread\CAProcessAndThread\obj\Debug\net9.0\CAProcessAndThread.AssemblyInfoInputs.cache
+E:\C#\Tutorial21 - Threading\CAProcessAndThread\CAProcessAndThread\obj\Debug\net9.0\CAProcessAndThread.AssemblyInfo.cs
+E:\C#\Tutorial21 - Threading\CAProcessAndThread\CAProcessAndThread\obj\Debug\net9.0\CAProcessAndThread.csproj.CoreCompileInputs.cache
+E:\C#\Tutorial21 - Threading\CAProcessAndThread\CAProcessAndThread\obj\Debug\net9.0\CAProcessAndThread.dll
+E:\C#\Tutorial21 - Threading\CAProcessAndThread\CAProcessAndThread\obj\Debug\net9.0\refint\CAProcessAndThread.dll
+E:\C#\Tutorial21 - Threading\CAProcessAndThread\CAProcessAndThread\obj\Debug\net9.0\CAProcessAndThread.pdb
+E:\C#\Tutorial21 - Threading\CAProcessAndThread\CAProcessAndThread\obj\Debug\net9.0\CAProcessAndThread.genruntimeconfig.cache
+E:\C#\Tutorial21 - Threading\CAProcessAndThread\CAProcessAndThread\obj\Debug\net9.0\ref\CAProcessAndThread.dll
