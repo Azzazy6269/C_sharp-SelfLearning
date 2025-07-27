@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CAProcessAndThread")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8fcecaa741ec5e687f26312ecc99459fcad3f1b9")]
 [assembly: System.Reflection.AssemblyProductAttribute("CAProcessAndThread")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CAProcessAndThread")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

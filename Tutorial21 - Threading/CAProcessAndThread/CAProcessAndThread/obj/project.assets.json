@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\C#\\Tutorial21 - Threading\\CAProcessAndThread\\CAProcessAndThread\\CAProcessAndThread.csproj",
+      "projectUniqueName": "E:\\git\\C_sharp-SelfLearning\\Tutorial21 - Threading\\CAProcessAndThread\\CAProcessAndThread\\CAProcessAndThread.csproj",
       "projectName": "CAProcessAndThread",
-      "projectPath": "E:\\C#\\Tutorial21 - Threading\\CAProcessAndThread\\CAProcessAndThread\\CAProcessAndThread.csproj",
+      "projectPath": "E:\\git\\C_sharp-SelfLearning\\Tutorial21 - Threading\\CAProcessAndThread\\CAProcessAndThread\\CAProcessAndThread.csproj",
       "packagesPath": "C:\\Users\\smart\\.nuget\\packages\\",
-      "outputPath": "E:\\C#\\Tutorial21 - Threading\\CAProcessAndThread\\CAProcessAndThread\\obj\\",
+      "outputPath": "E:\\git\\C_sharp-SelfLearning\\Tutorial21 - Threading\\CAProcessAndThread\\CAProcessAndThread\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

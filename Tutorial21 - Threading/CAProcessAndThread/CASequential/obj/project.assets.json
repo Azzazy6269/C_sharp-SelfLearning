@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\C#\\Tutorial21 - Threading\\CAProcessAndThread\\CASequential\\CASequential.csproj",
+      "projectUniqueName": "E:\\git\\C_sharp-SelfLearning\\Tutorial21 - Threading\\CAProcessAndThread\\CASequential\\CASequential.csproj",
       "projectName": "CASequential",
-      "projectPath": "E:\\C#\\Tutorial21 - Threading\\CAProcessAndThread\\CASequential\\CASequential.csproj",
+      "projectPath": "E:\\git\\C_sharp-SelfLearning\\Tutorial21 - Threading\\CAProcessAndThread\\CASequential\\CASequential.csproj",
       "packagesPath": "C:\\Users\\smart\\.nuget\\packages\\",
-      "outputPath": "E:\\C#\\Tutorial21 - Threading\\CAProcessAndThread\\CASequential\\obj\\",
+      "outputPath": "E:\\git\\C_sharp-SelfLearning\\Tutorial21 - Threading\\CAProcessAndThread\\CASequential\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

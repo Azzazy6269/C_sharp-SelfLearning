@@ -1,11 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.13.35825.156 d17.13
+VisualStudioVersion = 17.13.35825.156
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CAProcessAndThread", "CAProcessAndThread\CAProcessAndThread.csproj", "{0B3E5041-CE94-4D4B-A803-94077B35CAA8}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CASequential", "CASequential\CASequential.csproj", "{703CB043-9B06-4C3E-B112-9F149131C2E1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CAMultithreading", "CAMultithreading\CAMultithreading.csproj", "{4538A39B-3182-4449-8099-B03C3E18FDF8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{703CB043-9B06-4C3E-B112-9F149131C2E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{703CB043-9B06-4C3E-B112-9F149131C2E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{703CB043-9B06-4C3E-B112-9F149131C2E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4538A39B-3182-4449-8099-B03C3E18FDF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4538A39B-3182-4449-8099-B03C3E18FDF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4538A39B-3182-4449-8099-B03C3E18FDF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4538A39B-3182-4449-8099-B03C3E18FDF8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

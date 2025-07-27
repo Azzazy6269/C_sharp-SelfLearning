@@ -42,7 +42,7 @@ class Wallet
             int absValue = Math.Abs(amount);
             if (amount < 0)
             {
-                Dept(amount);
+                Dept(absValue);
             }
             else
             {
@@ -50,11 +50,24 @@ class Wallet
             }
             Console.WriteLine($"Process ID : {Process.GetCurrentProcess().Id}");
             Console.WriteLine($"Thread ID : {Thread.CurrentThread.ManagedThreadId}");
+            Console.WriteLine($"Processor ID : {Thread.GetCurrentProcessorId()}");
+
+            /* Process ID is constant for each runtime
+             * Thread ID is constant for each runtime and it's always = 1 
+             * Processor ID differs in the same runtime as "Thread Scheduling" distributes loads over logical processors to keep it balanced
+            */
+
+            /*
+             * process ID (PID) is constant and have one thread for some programs in runtime like C# console , Adobe reader .
+             * process ID (PID) is constant and have tens or hundrads threads for some complex programs like Microsoft word , photoshop .
+             * process ID (PID) is several in some complex programs like Chrome which have seperate process for each Tab 
+                for security and to prevent error from one tab to damage another tab 
+             */
         }
     }
     public override string ToString()
     {
-        return $"{name} -> {Bitcoins}";
+        return $"--------------\n{name} -> {Bitcoins}\n----------------\n";
     }
 
 

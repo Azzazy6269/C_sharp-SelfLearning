@@ -1,0 +1,15 @@
+E:\git\C_sharp-SelfLearning\Tutorial21 - Threading\CAProcessAndThread\CASequential\bin\Debug\net9.0\CASequential.exe
+E:\git\C_sharp-SelfLearning\Tutorial21 - Threading\CAProcessAndThread\CASequential\bin\Debug\net9.0\CASequential.deps.json
+E:\git\C_sharp-SelfLearning\Tutorial21 - Threading\CAProcessAndThread\CASequential\bin\Debug\net9.0\CASequential.runtimeconfig.json
+E:\git\C_sharp-SelfLearning\Tutorial21 - Threading\CAProcessAndThread\CASequential\bin\Debug\net9.0\CASequential.dll
+E:\git\C_sharp-SelfLearning\Tutorial21 - Threading\CAProcessAndThread\CASequential\bin\Debug\net9.0\CASequential.pdb
+E:\git\C_sharp-SelfLearning\Tutorial21 - Threading\CAProcessAndThread\CASequential\obj\Debug\net9.0\CASequential.GeneratedMSBuildEditorConfig.editorconfig
+E:\git\C_sharp-SelfLearning\Tutorial21 - Threading\CAProcessAndThread\CASequential\obj\Debug\net9.0\CASequential.AssemblyInfoInputs.cache
+E:\git\C_sharp-SelfLearning\Tutorial21 - Threading\CAProcessAndThread\CASequential\obj\Debug\net9.0\CASequential.AssemblyInfo.cs
+E:\git\C_sharp-SelfLearning\Tutorial21 - Threading\CAProcessAndThread\CASequential\obj\Debug\net9.0\CASequential.csproj.CoreCompileInputs.cache
+E:\git\C_sharp-SelfLearning\Tutorial21 - Threading\CAProcessAndThread\CASequential\obj\Debug\net9.0\CASequential.sourcelink.json
+E:\git\C_sharp-SelfLearning\Tutorial21 - Threading\CAProcessAndThread\CASequential\obj\Debug\net9.0\CASequential.dll
+E:\git\C_sharp-SelfLearning\Tutorial21 - Threading\CAProcessAndThread\CASequential\obj\Debug\net9.0\refint\CASequential.dll
+E:\git\C_sharp-SelfLearning\Tutorial21 - Threading\CAProcessAndThread\CASequential\obj\Debug\net9.0\CASequential.pdb
+E:\git\C_sharp-SelfLearning\Tutorial21 - Threading\CAProcessAndThread\CASequential\obj\Debug\net9.0\CASequential.genruntimeconfig.cache
+E:\git\C_sharp-SelfLearning\Tutorial21 - Threading\CAProcessAndThread\CASequential\obj\Debug\net9.0\ref\CASequential.dll

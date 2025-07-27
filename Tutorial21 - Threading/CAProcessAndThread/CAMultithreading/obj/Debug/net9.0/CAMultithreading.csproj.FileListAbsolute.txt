@@ -1,0 +1,15 @@
+E:\git\C_sharp-SelfLearning\Tutorial21 - Threading\CAProcessAndThread\CAMultithreading\bin\Debug\net9.0\CAMultithreading.exe
+E:\git\C_sharp-SelfLearning\Tutorial21 - Threading\CAProcessAndThread\CAMultithreading\bin\Debug\net9.0\CAMultithreading.deps.json
+E:\git\C_sharp-SelfLearning\Tutorial21 - Threading\CAProcessAndThread\CAMultithreading\bin\Debug\net9.0\CAMultithreading.runtimeconfig.json
+E:\git\C_sharp-SelfLearning\Tutorial21 - Threading\CAProcessAndThread\CAMultithreading\bin\Debug\net9.0\CAMultithreading.dll
+E:\git\C_sharp-SelfLearning\Tutorial21 - Threading\CAProcessAndThread\CAMultithreading\bin\Debug\net9.0\CAMultithreading.pdb
+E:\git\C_sharp-SelfLearning\Tutorial21 - Threading\CAProcessAndThread\CAMultithreading\obj\Debug\net9.0\CAMultithreading.GeneratedMSBuildEditorConfig.editorconfig
+E:\git\C_sharp-SelfLearning\Tutorial21 - Threading\CAProcessAndThread\CAMultithreading\obj\Debug\net9.0\CAMultithreading.AssemblyInfoInputs.cache
+E:\git\C_sharp-SelfLearning\Tutorial21 - Threading\CAProcessAndThread\CAMultithreading\obj\Debug\net9.0\CAMultithreading.AssemblyInfo.cs
+E:\git\C_sharp-SelfLearning\Tutorial21 - Threading\CAProcessAndThread\CAMultithreading\obj\Debug\net9.0\CAMultithreading.csproj.CoreCompileInputs.cache
+E:\git\C_sharp-SelfLearning\Tutorial21 - Threading\CAProcessAndThread\CAMultithreading\obj\Debug\net9.0\CAMultithreading.sourcelink.json
+E:\git\C_sharp-SelfLearning\Tutorial21 - Threading\CAProcessAndThread\CAMultithreading\obj\Debug\net9.0\CAMultithreading.dll
+E:\git\C_sharp-SelfLearning\Tutorial21 - Threading\CAProcessAndThread\CAMultithreading\obj\Debug\net9.0\refint\CAMultithreading.dll
+E:\git\C_sharp-SelfLearning\Tutorial21 - Threading\CAProcessAndThread\CAMultithreading\obj\Debug\net9.0\CAMultithreading.pdb
+E:\git\C_sharp-SelfLearning\Tutorial21 - Threading\CAProcessAndThread\CAMultithreading\obj\Debug\net9.0\CAMultithreading.genruntimeconfig.cache
+E:\git\C_sharp-SelfLearning\Tutorial21 - Threading\CAProcessAndThread\CAMultithreading\obj\Debug\net9.0\ref\CAMultithreading.dll
