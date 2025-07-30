@@ -48,9 +48,9 @@ class Wallet
             {
                 Credit(absValue);
             }
-            Console.WriteLine($"Process ID : {Process.GetCurrentProcess().Id}");
-            Console.WriteLine($"Thread ID : {Thread.CurrentThread.ManagedThreadId}");
-            Console.WriteLine($"Processor ID : {Thread.GetCurrentProcessorId()}");
+            Console.WriteLine($"Process ID : {Process.GetCurrentProcess().Id} ," +
+                              $" Thread ID : {Thread.CurrentThread.ManagedThreadId} ," +
+                              $"Processor ID : {Thread.GetCurrentProcessorId()} ");
 
             /* Process ID is constant for each runtime
              * Thread ID is constant for each runtime and it's always = 1 

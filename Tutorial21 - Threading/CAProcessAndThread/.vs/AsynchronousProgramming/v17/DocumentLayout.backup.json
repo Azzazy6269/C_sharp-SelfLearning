@@ -7,12 +7,12 @@
       "RelativeMoniker": "D:0:0:{4538A39B-3182-4449-8099-B03C3E18FDF8}|CAMultithreading\\CAMultithreading.csproj|solutionrelative:camultithreading\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{703CB043-9B06-4C3E-B112-9F149131C2E1}|CASequential\\CASequential.csproj|e:\\git\\c_sharp-selflearning\\tutorial21 - threading\\caprocessandthread\\casequential\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{703CB043-9B06-4C3E-B112-9F149131C2E1}|CASequential\\CASequential.csproj|solutionrelative:casequential\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0B3E5041-CE94-4D4B-A803-94077B35CAA8}|CAProcessAndThread\\CAProcessAndThread.csproj|e:\\git\\c_sharp-selflearning\\tutorial21 - threading\\caprocessandthread\\caprocessandthread\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0B3E5041-CE94-4D4B-A803-94077B35CAA8}|CAProcessAndThread\\CAProcessAndThread.csproj|solutionrelative:caprocessandthread\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{703CB043-9B06-4C3E-B112-9F149131C2E1}|CASequential\\CASequential.csproj|e:\\git\\c_sharp-selflearning\\tutorial21 - threading\\caprocessandthread\\casequential\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{703CB043-9B06-4C3E-B112-9F149131C2E1}|CASequential\\CASequential.csproj|solutionrelative:casequential\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -32,27 +32,27 @@
               "RelativeDocumentMoniker": "CAMultithreading\\Program.cs",
               "ToolTip": "E:\\git\\C_sharp-SelfLearning\\Tutorial21 - Threading\\CAProcessAndThread\\CAMultithreading\\Program.cs",
               "RelativeToolTip": "CAMultithreading\\Program.cs",
-              "ViewState": "AgIAAAEAAABQMDMzMzMrwBYAAAA/AAAAAAAAAA==",
+              "ViewState": "AgIAACYAAAAA//////8PwBsAAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-27T04:49:51.325Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\git\\C_sharp-SelfLearning\\Tutorial21 - Threading\\CAProcessAndThread\\CASequential\\Program.cs",
               "RelativeDocumentMoniker": "CASequential\\Program.cs",
               "ToolTip": "E:\\git\\C_sharp-SelfLearning\\Tutorial21 - Threading\\CAProcessAndThread\\CASequential\\Program.cs",
               "RelativeToolTip": "CASequential\\Program.cs",
-              "ViewState": "AgIAADMAAAAAAAAAAAAAAEkAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAC0AAADAlpmZmZkRwDQAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-26T17:34:07.261Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\git\\C_sharp-SelfLearning\\Tutorial21 - Threading\\CAProcessAndThread\\CAProcessAndThread\\Program.cs",
               "RelativeDocumentMoniker": "CAProcessAndThread\\Program.cs",
@@ -60,7 +60,8 @@
               "RelativeToolTip": "CAProcessAndThread\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-26T16:55:50.498Z"
+              "WhenOpened": "2025-07-26T16:55:50.498Z",
+              "EditorCaption": ""
             }
           ]
         }

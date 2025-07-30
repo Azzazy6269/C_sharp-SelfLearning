@@ -7,21 +7,34 @@ class Program
         var w = new Wallet("Issam", 100);
         Thread.CurrentThread.Name = "Main thread";
 
-
+        Console.WriteLine("---------CreatingNewThread---------");
         Thread t1 = new Thread(w.RunRandomTransactions);
-        Console.WriteLine("---------Naming---------");
         Console.WriteLine($"Default name : {t1.Name}");
         t1.Name = "T1";
         Console.WriteLine($"New name : {t1.Name}");
 
 
-        Console.WriteLine("\n---------RunRandomTransactions()---------");
-        w.RunRandomTransactions();
+        //Console.WriteLine("\n---------RunRandomTransactions()---------");
+        //w.RunRandomTransactions();
 
 
         Console.WriteLine("\n---------IsBackGround()---------");
         Console.WriteLine($"t1 is background ? {t1.IsBackground}");
 
+        Console.WriteLine("\n---------StartThread&ThreadState---------");
+        Console.WriteLine($"t1 state : {t1.ThreadState}"); // state : Unstarted
+        t1.Start();
+        Console.WriteLine($"t1 state : {t1.ThreadState}"); // state : Running
+        t1.Join();//wait until t1 terminate before continue the code 
+        Console.WriteLine($"t1 state : {t1.ThreadState}"); // state : Stopped
+                                                           // You can't write t1.start() again as the thread has teminated or stopped 
+
+        Console.WriteLine("\n---------CreatingThreadsToWorkParallels---------");
+        Thread t2 = new Thread(w.RunRandomTransactions);
+        Thread t3 = new Thread(w.RunRandomTransactions);
+        t2.Start();
+        t3.Start();
+        // You can realize from threadid in the output that they are running in parallel
     }
 }
 
@@ -39,17 +52,18 @@ class Wallet
     public void Dept(int amount)
     {
         Bitcoins -= amount;
-        Console.WriteLine($"Process ID : {Process.GetCurrentProcess().Id}");
-        Console.WriteLine($"Thread ID : {Thread.CurrentThread.ManagedThreadId}");
-        Console.WriteLine($"Processor ID : {Thread.GetCurrentProcessorId()}");
+        Console.WriteLine($"Process ID : {Process.GetCurrentProcess().Id} ," +
+                          $" Thread ID : {Thread.CurrentThread.ManagedThreadId} ," +
+                          $"Processor ID : {Thread.GetCurrentProcessorId()} ");
     }
 
     public void Credit(int amount)
     {
         Bitcoins += amount;
-        Console.WriteLine($"Process ID : {Process.GetCurrentProcess().Id}");
-        Console.WriteLine($"Thread ID : {Thread.CurrentThread.ManagedThreadId}");
-        Console.WriteLine($"Processor ID : {Thread.GetCurrentProcessorId()}");
+        Console.WriteLine($"Process ID : {Process.GetCurrentProcess().Id} ," +
+                          $" Thread ID : {Thread.CurrentThread.ManagedThreadId} ," +
+                          $"Processor ID : {Thread.GetCurrentProcessorId()} ");
+        
     }
 
     public void RunRandomTransactions()
