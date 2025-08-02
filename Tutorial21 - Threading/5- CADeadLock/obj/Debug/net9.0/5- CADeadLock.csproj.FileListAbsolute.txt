@@ -1,0 +1,15 @@
+E:\git\C_sharp-SelfLearning\Tutorial21 - Threading\CAProcessAndThread\5- CADeadLock\bin\Debug\net9.0\5- CADeadLock.exe
+E:\git\C_sharp-SelfLearning\Tutorial21 - Threading\CAProcessAndThread\5- CADeadLock\bin\Debug\net9.0\5- CADeadLock.deps.json
+E:\git\C_sharp-SelfLearning\Tutorial21 - Threading\CAProcessAndThread\5- CADeadLock\bin\Debug\net9.0\5- CADeadLock.runtimeconfig.json
+E:\git\C_sharp-SelfLearning\Tutorial21 - Threading\CAProcessAndThread\5- CADeadLock\bin\Debug\net9.0\5- CADeadLock.dll
+E:\git\C_sharp-SelfLearning\Tutorial21 - Threading\CAProcessAndThread\5- CADeadLock\bin\Debug\net9.0\5- CADeadLock.pdb
+E:\git\C_sharp-SelfLearning\Tutorial21 - Threading\CAProcessAndThread\5- CADeadLock\obj\Debug\net9.0\5- CADeadLock.GeneratedMSBuildEditorConfig.editorconfig
+E:\git\C_sharp-SelfLearning\Tutorial21 - Threading\CAProcessAndThread\5- CADeadLock\obj\Debug\net9.0\5- CADeadLock.AssemblyInfoInputs.cache
+E:\git\C_sharp-SelfLearning\Tutorial21 - Threading\CAProcessAndThread\5- CADeadLock\obj\Debug\net9.0\5- CADeadLock.AssemblyInfo.cs
+E:\git\C_sharp-SelfLearning\Tutorial21 - Threading\CAProcessAndThread\5- CADeadLock\obj\Debug\net9.0\5- CADeadLock.csproj.CoreCompileInputs.cache
+E:\git\C_sharp-SelfLearning\Tutorial21 - Threading\CAProcessAndThread\5- CADeadLock\obj\Debug\net9.0\5- CADeadLock.sourcelink.json
+E:\git\C_sharp-SelfLearning\Tutorial21 - Threading\CAProcessAndThread\5- CADeadLock\obj\Debug\net9.0\5- CADeadLock.dll
+E:\git\C_sharp-SelfLearning\Tutorial21 - Threading\CAProcessAndThread\5- CADeadLock\obj\Debug\net9.0\refint\5- CADeadLock.dll
+E:\git\C_sharp-SelfLearning\Tutorial21 - Threading\CAProcessAndThread\5- CADeadLock\obj\Debug\net9.0\5- CADeadLock.pdb
+E:\git\C_sharp-SelfLearning\Tutorial21 - Threading\CAProcessAndThread\5- CADeadLock\obj\Debug\net9.0\5- CADeadLock.genruntimeconfig.cache
+E:\git\C_sharp-SelfLearning\Tutorial21 - Threading\CAProcessAndThread\5- CADeadLock\obj\Debug\net9.0\ref\5- CADeadLock.dll
